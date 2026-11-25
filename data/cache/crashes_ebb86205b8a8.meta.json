@@ -1,0 +1,12 @@
+{
+  "cache_name": "crashes_ebb86205b8a8",
+  "retrieved_at_utc": "2026-11-25T01:37:14.463805+00:00",
+  "python_type": "DataFrame",
+  "shape": [
+    487931,
+    19
+  ],
+  "dataset_id": "h9gi-nx95",
+  "start_date": "2021-01-01",
+  "end_date": "2025-12-31"
+}

@@ -1,0 +1,11 @@
+{
+  "cache_name": "lion_79875d901162",
+  "retrieved_at_utc": "2026-11-25T01:38:18.762891+00:00",
+  "python_type": "GeoDataFrame",
+  "shape": [
+    244164,
+    22
+  ],
+  "dataset_id": "2v4z-66xt",
+  "source": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/ArcGIS/rest/services/LION/FeatureServer/0/query"
+}
