@@ -1,0 +1,18 @@
+{
+  "cache_name": "nysdot_aadt_roadway_viewer_4e90ad12523d",
+  "retrieved_at_utc": "2026-11-25T02:10:01.565373+00:00",
+  "python_type": "GeoDataFrame",
+  "shape": [
+    7991,
+    67
+  ],
+  "source": "https://gis.dot.ny.gov/hostingny/rest/services/Roadways/RoadwayDataViewer/MapServer/5/query",
+  "bbox": [
+    -74.3,
+    40.45,
+    -73.65,
+    40.95
+  ],
+  "nyc_filter": "DOT_Region_Number == 11 (applied locally)",
+  "aadt_field": "AADT_Current_Estimate"
+}
